@@ -1,0 +1,7 @@
+{
+  "name": "Minimal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

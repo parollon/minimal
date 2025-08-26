@@ -28,7 +28,8 @@ log.txt
 /tmp
 /out-tsc
 /bazel-out
-
+www
+.vscode
 # Node
 /node_modules
 npm-debug.log
